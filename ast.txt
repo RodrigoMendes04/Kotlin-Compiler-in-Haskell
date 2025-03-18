@@ -1,0 +1,1 @@
+Begin [TopLevelValDecl (ValDeclaration "line" Nothing (FuncCall "readln" []))]
